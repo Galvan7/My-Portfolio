@@ -715,6 +715,9 @@
         width: 120px;
         margin-bottom: 16px;
     }
+    .info{
+        margin-top: 240px;
+    }
 }
 
 @media (max-width: 525px) {
